@@ -1,0 +1,402 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Patua One', cursive;
+  position: relative;
+  text-align: center;
+  text-decoration-line: overline;
+  color: white;
+  font-size: 4vw;
+  padding: 5% 0 2% 0;
+}
+
+h2 {
+  font-family: 'Patua One', cursive;
+  color: white;
+  font-size: 4vw;
+  text-decoration-line: overline;
+  padding: 5% 0 2% 0;
+}
+
+h5 {
+  font-family: 'Patua One', cursive;
+}
+
+.top {
+  display: inline-flex;
+  background-color: #393E46;
+  width: 100%;
+}
+
+.intro {
+  background-color: #BCE29E;
+  max-width: 100%;
+  height: auto;
+  left: 0px;
+  right: 0px;
+  padding-bottom: 5%;
+}
+
+.key1 {
+  margin: 3% 0 3% 6%;
+}
+
+.key2 {
+  margin: 3% 0 3% 15%;
+}
+
+.key3 {
+  margin: 3% 0 3% 6%;
+}
+
+.key4 {
+  margin: 3% 0 3% 15%;
+}
+
+.bio {
+  /* display: inline-grid; */
+  text-align: left;
+  font-family: 'Roboto Slab', serif;
+  font-size: 3vw;
+  width: 60%;
+  margin: -25% 0 0 5%;
+  color: #393E46;
+}
+
+.profile {
+  width: 20%;
+  height: auto;
+  margin: 2% 0 5% 65%;
+  border-radius: 50%
+}
+
+.impo {
+  text-align: left;
+}
+
+.social {
+  width: 25%;
+  padding: 0.8% 0 2.5% 0;
+  margin: 0 0 0 18.4%;
+}
+
+.pho {
+  width: 15%;
+}
+
+.pho1 {
+  margin: 2% 0 0 0;
+}
+
+.pho2 {
+  margin: 2% 0 0 10%;
+}
+
+.pho3 {
+  margin: 2% 0 0 10%;
+}
+
+.pho4 {
+  margin: 2% 0 0 10%;
+}
+
+.expert {
+  width: 100%;
+  height: auto;
+  background-color: #393E46;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 2rem;
+  letter-spacing: 0.8rem;
+}
+
+a:hover {
+  color: #393E46;
+}
+
+.photo {
+  margin: 0 0 0 0;
+  padding: 0 0 5% 0;
+}
+
+.img {
+  width: 10%;
+  height: auto;
+}
+
+.im1 {
+  width: 14%;
+  margin: 5% 0 0 1.9%;
+}
+
+.im2 {
+  width: 10%;
+  margin: 5% 0 0 5%;
+}
+
+.im3 {
+  width: 15%;
+  margin: 5% 0 0 5%;
+}
+
+.im4 {
+  width: 10%;
+  margin: 5% 0 0 5%;
+}
+
+.im5 {
+  width: 17%;
+  margin: 5% 0 0 5%;
+}
+
+.website {
+  width: 100%;
+  height: auto;
+  background-color: #BCE29E;
+  padding-bottom: 5%;
+}
+
+.allc {
+  padding: 0 0 5% 0;
+}
+
+.cd {
+  display: inline-grid;
+  width: 25%;
+  height: auto;
+  box-shadow: rgba(57, 62, 70, 0.4) -5px 5px, rgba(188, 226, 158, 0.3) -10px 10px, rgba(57, 62, 70, 0.4) -15px 15px, rgba(188, 226, 158, 0.3) -20px 20px, rgba(57, 62, 70, 0.4) -25px 25px;
+}
+
+.card1 {
+  margin: 0 0 0 0;
+}
+
+.card2 {
+  margin: 0 0 0 5%;
+}
+
+.card3 {
+  margin: 0 0 0 5%;
+}
+
+.but {
+  background-color: #393E46;
+  font-family: 'Patua One', cursive;
+}
+
+.but:hover {
+  background-color: #BCE29E;
+}
+
+.pg {
+  font-family: 'Roboto Slab', serif;
+}
+
+.key {
+  background-color: transparent;
+  color: white;
+  font-family: 'Patua One', cursive;
+  letter-spacing: 0.3rem;
+}
+
+.certi {
+  width: 100%;
+  height: auto;
+  background-color: #393E46;
+  padding-bottom: 5%;
+}
+
+.cer {
+  width: 40%;
+  height: auto;
+  margin: 2% 0 0 0;
+}
+
+.cn {
+  font-size: 2vw;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  margin: 2% 0 0 0;
+}
+
+.cl {
+  color: #BCE29E;
+}
+
+.cl:hover {
+  color: white;
+}
+
+.skills {
+  width: 100%;
+  height: auto;
+  background-color: #BCE29E;
+  padding-bottom: 5%;
+}
+
+.photo2 {
+  margin: 5% 0 0 -5%;
+}
+
+.pic {
+  width: 12%;
+  height: auto;
+}
+
+.pic1 {
+  margin: 2% 0 0 5%;
+}
+
+.pic2 {
+  margin: 2% 0 0 5%;
+}
+
+.pic3 {
+  margin: 2% 0 0 5%;
+}
+
+.pic4 {
+  margin: 2% 0 0 5%;
+}
+
+.pic5 {
+  margin: 2% 0 0 5%;
+}
+
+.end {
+  width: 100%;
+  height: auto;
+  background-color: #393E46;
+}
+
+.btn-12 {
+  position: relative;
+  right: 20px;
+  bottom: 20px;
+  border: none;
+  box-shadow: none;
+  width: 130px;
+  height: 40px;
+  line-height: 42px;
+  -webkit-perspective: 230px;
+  perspective: 230px;
+}
+
+.btn-12 span {
+  background: #BCE29E;
+  background: linear-gradient(0deg, #BCE29E 0%, #BCE29E 100%);
+  display: block;
+  position: absolute;
+  width: 130px;
+  height: 40px;
+  box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
+    7px 7px 20px 0px rgba(0, 0, 0, .1),
+    4px 4px 5px 0px rgba(0, 0, 0, .1);
+  border-radius: 5px;
+  margin: 0;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+
+.btn-12 span:nth-child(1) {
+  box-shadow:
+    -7px -7px 20px 0px #fff9,
+    -4px -4px 5px 0px #fff9,
+    7px 7px 20px 0px #0002,
+    4px 4px 5px 0px #0001;
+  -webkit-transform: rotateX(90deg);
+  -moz-transform: rotateX(90deg);
+  transform: rotateX(90deg);
+  -webkit-transform-origin: 50% 50% -20px;
+  -moz-transform-origin: 50% 50% -20px;
+  transform-origin: 50% 50% -20px;
+}
+
+.btn-12 span:nth-child(2) {
+  -webkit-transform: rotateX(0deg);
+  -moz-transform: rotateX(0deg);
+  transform: rotateX(0deg);
+  -webkit-transform-origin: 50% 50% -20px;
+  -moz-transform-origin: 50% 50% -20px;
+  transform-origin: 50% 50% -20px;
+}
+
+.btn-12:hover span:nth-child(1) {
+  box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
+    7px 7px 20px 0px rgba(0, 0, 0, .1),
+    4px 4px 5px 0px rgba(0, 0, 0, .1);
+  -webkit-transform: rotateX(0deg);
+  -moz-transform: rotateX(0deg);
+  transform: rotateX(0deg);
+}
+
+.btn-12:hover span:nth-child(2) {
+  box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
+    7px 7px 20px 0px rgba(0, 0, 0, .1),
+    4px 4px 5px 0px rgba(0, 0, 0, .1);
+  color: transparent;
+  -webkit-transform: rotateX(-90deg);
+  -moz-transform: rotateX(-90deg);
+  transform: rotateX(-90deg);
+}
+
+.hire {
+  margin: 2% 0 2% 6%;
+  color: #393E46;
+}
+
+.resu {
+  color: #393E46;
+  margin: 2% 0 2% 32%;
+}
+
+@media (max-width: 991px) {
+  .hire {
+    margin: 5% 0 0 8%;
+    color: #393E46;
+  }
+
+  .resu {
+    margin: 5% 0 0 15%;
+    color: #393E46;
+  }
+
+  .social {
+    width: 45%;
+    margin: 2% 0 0 18%;
+    padding-bottom: 5%;
+  }
+
+  .cd {
+    width: 75%;
+    padding-bottom: 5%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+
+  .card1 {
+    margin: 0 0 0 0;
+  }
+
+  .card2 {
+    margin: 5% 0 0 0;
+  }
+
+  .card3 {
+    margin: 5% 0 0 0;
+  }
+}
+
+/* @media (min-width: 662px) and (max-width: 991px){
+  .website{
+    height: 125rem;
+  }
+} */
