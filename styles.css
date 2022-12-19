@@ -373,7 +373,7 @@ a:hover {
 
   .social {
     width: 45%;
-    margin: 2% 0 0 18%;
+    margin: 2% 0 0 27.5%;
     padding-bottom: 5%;
   }
 
@@ -395,9 +395,3 @@ a:hover {
     margin: 5% 0 0 0;
   }
 }
-
-/* @media (min-width: 662px) and (max-width: 991px){
-  .website{
-    height: 125rem;
-  }
-} */
